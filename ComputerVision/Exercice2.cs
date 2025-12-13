@@ -16,6 +16,7 @@ namespace ComputerVision
 {
     internal class Exercice2
     {
+
         private ComputerVisionClient _client;
         private List<VisualFeatureTypes?> _features = new List<VisualFeatureTypes?>()
         {
